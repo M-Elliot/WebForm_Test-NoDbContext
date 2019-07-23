@@ -1,9 +1,10 @@
 # Basic C# WebForm Example ASP.Net & Foundation 6 
 > A Simple First-Attempt Example of a WebForm designed in ASP.Net & Foundation 6. (No DbContext or CRUD)
+>> I am by no means a front-end developer so apologies for bad practices
 
 A ***"Junior Interview Test"*** *which also intends to be a full week of work? For free? For a **potential** interview*...
 
-This is what was completed before I realised i was being taken advantage of and stopped.
+This is what was completed before I consolodated with others and confirmed the feeling i was being taken advantage of and stopped.
 
 
 __**The Test Requirements:**__
